@@ -30,6 +30,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  bloc: ^7.0.0 # Agrega la dependencia de Bloc
+  dio: ^4.0.0 # Agrega la dependencia de DIO
 
 
   # The following adds the Cupertino Icons font to your application.
